@@ -1,4 +1,4 @@
-"users": [
+{"users": [
   {
     "id": 1,
     "firstName": "Sachin",
@@ -18,3 +18,4 @@
     "age": 32
   }
 ]
+}
